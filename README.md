@@ -6,7 +6,7 @@ This project, named "EcoPlanet", is a web application developed using React, HTM
 
 The "EcoPlanet" project aims to promote environmental sustainability by providing a platform for users to easily locate and engage with recycling centers. Users can exchange recyclable materials for coupons, which they can then redeem for various rewards. The application utilizes modern web technologies such as React for dynamic user interfaces and JavaScript for seamless interactions with the backend API.
 
-## Languages and Tools Used
+## Technologies Used
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) React - JavaScript library for building user interfaces.
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) HTML - Markup language for creating web pages.
