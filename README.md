@@ -15,7 +15,6 @@ The "EcoPlanet" project aims to promote environmental sustainability by providin
 - ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white) Material UI - React component library for building user interfaces with Google's Material Design.
 - ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) Vite - Web development build tool that serves your code via native ES module imports during development.
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) Visual Studio Code - Source-code editor developed by Microsoft.
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) Postman - API development and testing tool for building and testing APIs quickly.
 
 ## Integration with API
 
