@@ -1,10 +1,10 @@
 # EcoPlanet
 
-This project, named "EcoPlanet", is a web application developed using React, HTML, CSS, and JavaScript. It focuses on centers for collecting recyclable materials and facilitates the exchange of materials for coupons. Additionally, it utilizes the local API "Api EcoPlanet" to access data from the database through JavaScript methods called "Services".
+Recycling center.
 
 ## Description
 
-The "EcoPlanet" project aims to promote environmental sustainability by providing a platform for users to easily locate and engage with recycling centers. Users can exchange recyclable materials for coupons, which they can then redeem for various rewards. The application utilizes modern web technologies such as React for dynamic user interfaces and JavaScript for seamless interactions with the backend API.
+EcoPlanet project is a web application developed using React, HTML, CSS, and JavaScript, focusing on centers for collecting recyclable materials and facilitating the exchange of materials for coupons. It also utilizes the local API 'Api EcoPlanet' to access data from the database through JavaScript methods called 'Services'. With a primary goal of promoting environmental sustainability, 'EcoPlanet' provides users with a platform to easily locate and engage with recycling centers. Users can exchange recyclable materials for coupons, which they can then redeem for various rewards. The application leverages modern web technologies such as React for dynamic user interfaces and JavaScript for seamless interactions with the backend API."
 
 ## Technologies Used
 
