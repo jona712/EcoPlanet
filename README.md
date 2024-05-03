@@ -1,6 +1,6 @@
 # EcoPlanet
 
-Recycling center.
+Recycling Center.
 
 ## Description
 
