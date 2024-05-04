@@ -6,7 +6,7 @@ Recycling Center.
 
 EcoPlanet project is a web application developed using React, HTML, CSS, and JavaScript, focusing on centers for collecting recyclable materials and facilitating the exchange of materials for coupons. It also utilizes the local API 'Api EcoPlanet' to access data from the database through JavaScript methods called 'Services'. With a primary goal of promoting environmental sustainability, 'EcoPlanet' provides users with a platform to easily locate and engage with recycling centers. Users can exchange recyclable materials for coupons, which they can then redeem for various rewards. The application leverages modern web technologies such as React for dynamic user interfaces and JavaScript for seamless interactions with the backend API."
 
-## Technologies Used
+## Technologies Used 
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) React - JavaScript library for building user interfaces.
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) HTML - Markup language for creating web pages.
